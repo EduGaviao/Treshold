@@ -1,10 +1,15 @@
 # Treshold
 ## Segmentação de uma imagem em escala de cinza.
+ 
+Trabalho apresentado na disciplina de Processamento Digital de Imagens, lecionada no Universidade Tecnológica Federal do Paraná - UTFPR campus Toledo no período letivo de 2021/2.
 
-Autor: Eduarda Simonis Gavião e Willian Rodrigo Huber
-
-Universidade Tecnológica Federal do Paraná
-
-Engenharia de Computação
-
-Trabalho desenvolvido para a disciplina de Processamento Digital de Imagens
+## Integrantes 
+| Nome | RA |
+|--|--|
+|Eduarda Simonis Gavião | 1879472 |
+|Willian Rodrigo Huber | 1992910 |
+ 
+ ## Procedimento para clonar o repositório
+```
+git clone https://github.com/DuGayviao/Treshold.git
+```
